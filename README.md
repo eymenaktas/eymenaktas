@@ -101,8 +101,8 @@ Started out in the Minecraft ecosystem writing plugins. Still the fastest way I 
 
 <br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=eymenaktas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=1a73e8&icon_color=1a73e8&text_color=9aa0a6&bg_color=0d1117" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eymenaktas&layout=compact&langs_count=8&hide_border=true&title_color=1a73e8&text_color=9aa0a6&bg_color=0d1117" alt="top languages" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eymenaktas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=1a73e8&icon_color=1a73e8&text_color=9aa0a6&bg_color=0d1117" alt="stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eymenaktas&layout=compact&langs_count=8&hide_border=true&title_color=1a73e8&text_color=9aa0a6&bg_color=0d1117" alt="top languages" />
 
 <br><br>
 
@@ -110,7 +110,8 @@ Started out in the Minecraft ecosystem writing plugins. Still the fastest way I 
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=eymenaktas&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+<img src="https://img.shields.io/github/followers/eymenaktas?style=for-the-badge&logo=github&logoColor=white&color=1a73e8&labelColor=0d1117" alt="followers" />
+<img src="https://img.shields.io/github/stars/eymenaktas?style=for-the-badge&logo=github&logoColor=white&color=1a73e8&labelColor=0d1117" alt="stars" />
 
 </div>
 
