@@ -1,116 +1,164 @@
-<h1 align="center">Merhaba, ben Eymen 👋</h1>
+<div align="center">
 
-<p align="center">
-  İstanbul'dan, kendi altyapısını kuran bir geliştirici.<br>
-  Minecraft ekosisteminden geldim, şimdi makine öğrenmesi ve kendi sunucularımla uğraşıyorum.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:8ab4f8&height=200&section=header&text=Eymen%20Akta%C5%9F&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20from%20Istanbul&descAlignY=55&descSize=18" width="100%" alt="banner" />
 
-<p align="center">
-  <a href="https://mail.akts.tr"><img src="https://img.shields.io/badge/Aktaş_Mail-canlı-1a73e8?style=flat-square" alt="Aktaş Mail"></a>
-  <a href="mailto:eymen@akts.tr"><img src="https://img.shields.io/badge/eymen@akts.tr-kendi_sunucumda-333?style=flat-square" alt="E-posta"></a>
-  <img src="https://img.shields.io/badge/İstanbul-TR-e30a17?style=flat-square" alt="İstanbul">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=1A73E8&center=true&vCenter=true&width=540&lines=I+run+my+own+servers.;I+train+my+own+models.;I+build+what+I+want+to+use.;Measure%2C+don't+guess." alt="typing" />
 
----
+<br><br>
 
-## Ne yapıyorum
+<a href="mailto:eymen@akts.tr"><img src="https://img.shields.io/badge/Email-eymen%40akts.tr-1a73e8?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+<a href="https://akts.tr"><img src="https://img.shields.io/badge/Website-akts.tr-111111?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
+<a href="https://github.com/eymenaktas?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
-Bir şeyin nasıl çalıştığını anlamanın en iyi yolu onu kendin kurmak. Bu yüzden
-e-posta sunucumu kendim işletiyorum, spam modelimi kendi verimle eğitiyorum ve
-oynadığım oyunları kendim yazıyorum.
+<br>
 
-Çalışma tarzım basit: **ölç, tahmin etme.** Aşağıdaki her sayı gerçek bir
-çalıştırmadan geliyor.
+<img src="https://komarev.com/ghpvc/?username=eymenaktas&style=for-the-badge&color=1a73e8&label=PROFILE+VIEWS" alt="views" />
+
+</div>
+
+<br>
 
 ---
 
-## 📬 [Aktaş Mail](https://github.com/eymenaktas/aktas-mail)
+<div align="center">
 
-`mail.akts.tr` — kendi sunucumda çalışan, Gmail benzeri arayüzü olan e-posta
-uygulaması. Postfix + Dovecot benim, uygulama da benim.
+## 🧠 What I Do
 
-**En sevdiğim tasarım kararı:** uygulama IMAP parolanı **saklamıyor.**
-Girişte rastgele bir oturum anahtarı üretiliyor, parola onunla şifrelenip
-veritabanına yazılıyor, anahtar yalnızca sana gidiyor. Veritabanı tek başına
-çalınırsa postalar açılamıyor.
+</div>
 
-Bunun bir bedeli var ve mimarinin tamamını şekillendirdi: sunucu, sen istekte
-bulunmadan posta kutusuna **bakamıyor**. Yani "arka planda yeni mail var mı"
-diye yoklamak yapısal olarak mümkün değil. Çözüm, bildirimi teslimat tarafından
-tetiklemek oldu — Maildir'i inotify ile izleyen bir servis, mail yazıldığı anda
-haber veriyor.
+<table align="center">
+<tr>
+<td width="33%" align="center" valign="top">
 
-```
-teslimattan bildirime: 549 ms
-```
+### 🖥️
+**Self-hosting**
 
-Öne çıkanlar:
+I'd rather run it than rent it. Mail servers, databases, reverse proxies — I want to know what every service on the box is actually doing.
 
-- **Passkey + PRF** ile parolasız giriş — ilk girişten sonra parola hiç sorulmuyor
-- **BIMI + VMC** ile gönderen logosu ve mavi tik; BIMI yoksa DMARC `p=reject`
-  kontrolü (bu yüzden `google.com` tik alıyor, `gmail.com` almıyor)
-- Gelen HTML **sandbox'lı iframe** içinde, `allow-scripts` yok, 16/16 saldırı testi geçiyor
-- Uzak görseller varsayılan kapalı — takip pikseli engelleniyor
-- 71 test
+</td>
+<td width="33%" align="center" valign="top">
 
-## 🧠 [Türkçe Spam Modeli](https://github.com/eymenaktas/turkce-spam-modeli)
+### 🤖
+**Machine Learning**
 
-Aktaş Mail'in spam sınıflandırıcısı, ayrı depo. ONNX olarak dağıtılıyor —
-Python kurmadan Node, C#, Java, tarayıcı, hepsinde çalışıyor.
+Training models on my own data and shipping them where they get used. If a number isn't measured, it isn't real.
 
-```
-%74.1  →  %97.1     kendi gelen kutumun verisiyle
-```
+</td>
+<td width="33%" align="center" valign="top">
 
-En sevdiğim hata buradan çıktı. `sklearn` ile ONNX'in tahminleri %83 uyuşuyordu.
-Sebep Türkçe'nin `İ` harfi:
+### 🎮
+**Game & Plugin Dev**
 
-```python
-"İ".lower()   # Python:  'i' + U+0307  → İKİ karakter
-              # ONNX C++: 'i'          → TEK karakter
-```
+Started out in the Minecraft ecosystem writing plugins. Still the fastest way I know to learn a language properly.
 
-Yani `sklearn` "ACİL"i `aci` diye belirteçlerken ONNX `acil` diyordu. Aynı
-metin, farklı tahmin. Küçültmeyi ONNX'in dışına alıp Türkçe harfleri ASCII'ye
-katlayınca uyum **%100** oldu.
+</td>
+</tr>
+</table>
 
-Bir de şunu öğrendim: Kaggle'da 1.0 puanlı, 4501 indirmeli bir veri setinin
-17.171 "spam" satırında yalnızca **6 benzersiz metin** vardı. Popülerlik veri
-kalitesini garanti etmiyor — artık toplayıcı bunu otomatik eliyor.
+<br>
 
-## 🎮 [OyunHub](https://github.com/eymenaktas/oyunhub)
+<div align="center">
 
-172 tarayıcı oyunu barındıran Türkçe oyun portalı. **32'si bu proje için
-sıfırdan yazıldı**, 140'ı Internet Archive emülatöründen geliyor.
+### Things I enjoy
 
-32 oyunun tamamı konsol hatasız açılıyor — tek tek kontrol edildi.
+`taking something apart to see how it works` &nbsp;•&nbsp; `chasing a bug to its actual root cause`
 
-## 🌐 [akts.tr](https://github.com/eymenaktas/akts-landing)
+`making it work first, then making it beautiful` &nbsp;•&nbsp; `automating the boring part`
 
-Tüm projelerimin durduğu VDS'in karşılama sayfası. Aynı sunucuda nginx, PM2,
-PostgreSQL, Redis, Postfix + Dovecot ve n8n çalışıyor.
+</div>
+
+<br>
 
 ---
 
-## Nerede çalıştım
+<div align="center">
 
-| Yer | Rol |
-|---|---|
-| **Ecstacy Anticheat** | Media Manager — medya tarafı, kod değil |
-| **TrPrac** | Owner (eski) |
-| **wrus.net** | Developer (eski) |
+## 🛠️ Languages &amp; Tools
+
+<br>
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css,bash&theme=dark" alt="languages" />
+
+**Backend &amp; Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,nginx,docker,linux,git&theme=dark" alt="backend" />
+
+**Frontend &amp; ML**
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,pytorch,sklearn,github&theme=dark" alt="frontend and ml" />
+
+</div>
+
+<br>
 
 ---
 
-## Kullandıklarım
+<div align="center">
 
-**Dil:** TypeScript · Python · Java
-**Sunucu:** Node · Fastify · PostgreSQL · Redis · nginx · Postfix/Dovecot
-**Arayüz:** React · Vite
-**ML:** scikit-learn · PyTorch · ONNX
+## 📊 Statistics
+
+<br>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=eymenaktas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=1a73e8&icon_color=1a73e8&text_color=9aa0a6&bg_color=0d1117" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eymenaktas&layout=compact&langs_count=8&hide_border=true&title_color=1a73e8&text_color=9aa0a6&bg_color=0d1117" alt="top languages" />
+
+<br><br>
+
+<img height="165" src="https://streak-stats.demolab.com?user=eymenaktas&hide_border=true&background=0D1117&stroke=1a73e8&ring=1a73e8&fire=8ab4f8&currStreakLabel=1a73e8&sideLabels=9aa0a6&dates=5f6368" alt="streak" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=eymenaktas&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+
+</div>
+
+<br>
 
 ---
 
-<p align="center">
-  <sub>Bir şey sormak istersen: <a href="mailto:eymen@akts.tr">eymen@akts.tr</a></sub>
-</p>
+<div align="center">
+
+## 📈 Activity
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eymenaktas&bg_color=0d1117&color=9aa0a6&line=1a73e8&point=8ab4f8&area=true&hide_border=true" width="100%" alt="activity graph" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/snake.svg" alt="contribution snake" width="100%" />
+</picture>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### Get in touch
+
+<a href="mailto:eymen@akts.tr"><img src="https://img.shields.io/badge/Send%20a%20mail-1a73e8?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" /></a>
+<a href="https://github.com/eymenaktas"><img src="https://img.shields.io/badge/Follow-111111?style=for-the-badge&logo=github&logoColor=white" alt="follow" /></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8ab4f8,100:1a73e8&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
