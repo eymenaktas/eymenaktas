@@ -2,7 +2,7 @@
 #
 # Çıktı `output` dalına yazılıyor; README oradan okuyor. Böylece main
 # dalı her gün gereksiz commit almıyor.
-name: Snake
+name: Profil görselleri
 
 on:
   schedule:
@@ -17,6 +17,22 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # İstatistik kartlarını KENDİMİZ üretiyoruz — üçüncü taraf servisler
+      # (github-readme-stats, profile-trophy) 503/402 verdi ve bir ayna
+      # 200 dönüp içerik olarak hata kartı çizdi. Kendi token'ımızla
+      # ürettiğimizde ne rate limit oluyor ne de servis ölüyor.
+      - name: İstatistik kartları
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: node scripts/istatistik.mjs dist
+
       - uses: Platane/snk@v3
         id: snake
         with:

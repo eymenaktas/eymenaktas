@@ -101,12 +101,10 @@ Started out in the Minecraft ecosystem writing plugins. Still the fastest way I 
 
 <br>
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eymenaktas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=1a73e8&icon_color=1a73e8&text_color=9aa0a6&bg_color=0d1117" alt="stats" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eymenaktas&layout=compact&langs_count=8&hide_border=true&title_color=1a73e8&text_color=9aa0a6&bg_color=0d1117" alt="top languages" />
+<img height="240" src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/stats.svg" alt="stats" />
+<img height="240" src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/languages.svg" alt="most used languages" />
 
-<br><br>
-
-<img height="165" src="https://streak-stats.demolab.com?user=eymenaktas&hide_border=true&background=0D1117&stroke=1a73e8&ring=1a73e8&fire=8ab4f8&currStreakLabel=1a73e8&sideLabels=9aa0a6&dates=5f6368" alt="streak" />
+<sub>Generated nightly from the GitHub API by <a href="https://github.com/eymenaktas/eymenaktas/blob/main/scripts/istatistik.mjs">a script in this repo</a> — no third-party service, nothing to rate-limit.</sub>
 
 <br><br>
 
