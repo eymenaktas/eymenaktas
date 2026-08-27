@@ -33,6 +33,15 @@ jobs:
           GITHUB_USER: ${{ github.repository_owner }}
         run: node scripts/istatistik.mjs dist
 
+      # Aktivite grafiği de aynı sebeple kendi ürettiğimiz:
+      # github-readme-activity-graph.vercel.app 2026-08-27'de
+      # 402 "Payment required / DEPLOYMENT_DISABLED" vermeye başladı.
+      - name: Aktivite grafiği
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: node scripts/aktivite.mjs dist
+
       - uses: Platane/snk@v3
         id: snake
         with:

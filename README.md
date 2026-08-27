@@ -123,7 +123,9 @@ Started out in the Minecraft ecosystem writing plugins. Still the fastest way I 
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eymenaktas&bg_color=0d1117&color=9aa0a6&line=1a73e8&point=8ab4f8&area=true&hide_border=true" width="100%" alt="activity graph" />
+<img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/activity.svg" width="100%" alt="contribution activity graph" />
+
+<sub>Also generated nightly by <a href="https://github.com/eymenaktas/eymenaktas/blob/main/scripts/aktivite.mjs">a script in this repo</a>. The service this replaced started returning <code>402 Payment required</code>.</sub>
 
 </div>
 
