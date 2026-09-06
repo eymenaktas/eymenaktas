@@ -1,0 +1,77 @@
+<svg width="840" height="260" viewBox="0 0 840 260"
+     xmlns="http://www.w3.org/2000/svg" role="img"
+     aria-label="eymenaktas contribution activity, last 31 days, 38 total">
+  <style>
+    .b { font: 600 16px 'Segoe UI', Ubuntu, sans-serif; fill: #1a73e8 }
+    .s { font: 400 12px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e }
+    .k { font: 400 11px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e }
+    /* pathLength="1" sayesinde dasharray yolun gerçek uzunluğundan
+       bağımsız — sabit 4000 verilseydi kısa yolda çizim animasyonun
+       son saniyesinde bir anda oluyordu. */
+    .cizgi { stroke-dasharray: 1; stroke-dashoffset: 1; animation: ciz 1.6s ease forwards }
+    .alan  { opacity: 0; animation: ac .8s ease .6s forwards }
+    @keyframes ciz { to { stroke-dashoffset: 0 } }
+    @keyframes ac  { to { opacity: 1 } }
+    @media (prefers-reduced-motion: reduce) {
+      .cizgi { animation: none; stroke-dashoffset: 0 }
+      .alan  { animation: none; opacity: 1 }
+    }
+  </style>
+  <defs>
+    <linearGradient id="dolgu" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a73e8" stop-opacity=".38" />
+      <stop offset="1" stop-color="#1a73e8" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="838" height="258" rx="12" fill="#0d1117" stroke="#1f2733" />
+  <text x="24" y="34" class="b">Contribution activity</text>
+  <text x="816" y="34" class="s" text-anchor="end">last 31 days &#183; 38 contributions</text>
+
+  <line x1="44" y1="214.0" x2="816" y2="214.0" stroke="#161d27" />
+      <text x="34" y="218.0" class="k" text-anchor="end">0</text>
+  <line x1="44" y1="176.5" x2="816" y2="176.5" stroke="#161d27" />
+      <text x="34" y="180.5" class="k" text-anchor="end">3</text>
+  <line x1="44" y1="139.0" x2="816" y2="139.0" stroke="#161d27" />
+      <text x="34" y="143.0" class="k" text-anchor="end">6</text>
+  <line x1="44" y1="101.5" x2="816" y2="101.5" stroke="#161d27" />
+      <text x="34" y="105.5" class="k" text-anchor="end">9</text>
+  <line x1="44" y1="64.0" x2="816" y2="64.0" stroke="#161d27" />
+      <text x="34" y="68.0" class="k" text-anchor="end">12</text>
+
+  <path d="M44.0 214.0 L44.0 214.0 L69.7 214.0 L95.5 214.0 L121.2 214.0 L146.9 214.0 L172.7 214.0 L198.4 214.0 L224.1 214.0 L249.9 214.0 L275.6 214.0 L301.3 201.5 L327.1 214.0 L352.8 189.0 L378.5 214.0 L404.3 214.0 L430.0 214.0 L455.7 114.0 L481.5 76.5 L507.2 214.0 L532.9 164.0 L558.7 189.0 L584.4 89.0 L610.1 214.0 L635.9 214.0 L661.6 214.0 L687.3 214.0 L713.1 214.0 L738.8 214.0 L764.5 214.0 L790.3 214.0 L816.0 214.0 L816.0 214.0 Z" fill="url(#dolgu)" class="alan" />
+  <path d="M44.0 214.0 L69.7 214.0 L95.5 214.0 L121.2 214.0 L146.9 214.0 L172.7 214.0 L198.4 214.0 L224.1 214.0 L249.9 214.0 L275.6 214.0 L301.3 201.5 L327.1 214.0 L352.8 189.0 L378.5 214.0 L404.3 214.0 L430.0 214.0 L455.7 114.0 L481.5 76.5 L507.2 214.0 L532.9 164.0 L558.7 189.0 L584.4 89.0 L610.1 214.0 L635.9 214.0 L661.6 214.0 L687.3 214.0 L713.1 214.0 L738.8 214.0 L764.5 214.0 L790.3 214.0 L816.0 214.0" pathLength="1" fill="none" stroke="#1a73e8" stroke-width="2.5"
+        stroke-linejoin="round" stroke-linecap="round" class="cizgi" />
+  <circle cx="301.3" cy="201.5" r="4"
+      fill="#8ab4f8" stroke="#0d1117" stroke-width="2">
+      <title>Aug 17: 1</title>
+    </circle>
+  <circle cx="352.8" cy="189.0" r="4"
+      fill="#8ab4f8" stroke="#0d1117" stroke-width="2">
+      <title>Aug 19: 2</title>
+    </circle>
+  <circle cx="455.7" cy="114.0" r="4"
+      fill="#8ab4f8" stroke="#0d1117" stroke-width="2">
+      <title>Aug 23: 8</title>
+    </circle>
+  <circle cx="481.5" cy="76.5" r="4"
+      fill="#8ab4f8" stroke="#0d1117" stroke-width="2">
+      <title>Aug 24: 11</title>
+    </circle>
+  <circle cx="532.9" cy="164.0" r="4"
+      fill="#8ab4f8" stroke="#0d1117" stroke-width="2">
+      <title>Aug 26: 4</title>
+    </circle>
+  <circle cx="558.7" cy="189.0" r="4"
+      fill="#8ab4f8" stroke="#0d1117" stroke-width="2">
+      <title>Aug 27: 2</title>
+    </circle>
+  <circle cx="584.4" cy="89.0" r="4"
+      fill="#8ab4f8" stroke="#0d1117" stroke-width="2">
+      <title>Aug 28: 10</title>
+    </circle>
+
+  <text x="44.0" y="240" class="k" text-anchor="start">Aug 7</text>
+  <text x="687.3" y="240" class="k" text-anchor="middle">Sep 1</text>
+  <text x="816.0" y="240" class="k" text-anchor="end">Sep 6</text>
+</svg>

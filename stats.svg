@@ -1,0 +1,43 @@
+<svg width="300" height="240" viewBox="0 0 300 240"
+     xmlns="http://www.w3.org/2000/svg" role="img" aria-label="eymenaktas&#39;s stats">
+  <style>
+    .b { font: 600 16px 'Segoe UI', Ubuntu, sans-serif; fill: #1a73e8 }
+    .e { font: 500 13px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9 }
+    .d { font: 700 13px 'Segoe UI', Ubuntu, sans-serif; fill: #8ab4f8 }
+    .k { font: 400 11px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e }
+    /* Kartlar yüklenirken belirsin — hepsi aynı anda parlıyor */
+    .g { opacity: 0; animation: ac .6s ease forwards }
+    @keyframes ac { to { opacity: 1 } }
+  </style>
+  <rect x="1" y="1" width="298" height="238" rx="12"
+        fill="#0d1117" stroke="#1f2733" />
+  <text x="24" y="34" class="b">eymenaktas&#39;s stats</text>
+  <g class="g" style="animation-delay:0ms">
+      <text x="24" y="68" class="e">Contributions</text>
+      <text x="276" y="68" class="d" text-anchor="end">40</text>
+    </g>
+<g class="g" style="animation-delay:70ms">
+      <text x="24" y="94" class="e">Total Commits</text>
+      <text x="276" y="94" class="d" text-anchor="end">24</text>
+    </g>
+<g class="g" style="animation-delay:140ms">
+      <text x="24" y="120" class="e">Pull Requests</text>
+      <text x="276" y="120" class="d" text-anchor="end">0</text>
+    </g>
+<g class="g" style="animation-delay:210ms">
+      <text x="24" y="146" class="e">Issues</text>
+      <text x="276" y="146" class="d" text-anchor="end">0</text>
+    </g>
+<g class="g" style="animation-delay:280ms">
+      <text x="24" y="172" class="e">Stars Earned</text>
+      <text x="276" y="172" class="d" text-anchor="end">16</text>
+    </g>
+<g class="g" style="animation-delay:350ms">
+      <text x="24" y="198" class="e">Repositories</text>
+      <text x="276" y="198" class="d" text-anchor="end">7</text>
+    </g>
+<g class="g" style="animation-delay:420ms">
+      <text x="24" y="224" class="e">Followers</text>
+      <text x="276" y="224" class="d" text-anchor="end">1</text>
+    </g>
+</svg>
