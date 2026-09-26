@@ -8,7 +8,7 @@
 
 <a href="mailto:eymen@akts.tr"><img src="https://img.shields.io/badge/Email-eymen%40akts.tr-1a73e8?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
 <a href="https://akts.tr"><img src="https://img.shields.io/badge/Website-akts.tr-111111?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
-<a href="https://github.com/eymenaktas?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="https://github.com/Akts-Studio"><img src="https://img.shields.io/badge/Akts%20Studio-Projects-bb2a2a?style=for-the-badge&logo=github&logoColor=white" alt="Akts Studio" /></a>
 
 <br>
 
@@ -64,6 +64,31 @@ Started out in the Minecraft ecosystem writing plugins. Still the fastest way I 
 `taking something apart to see how it works` &nbsp;•&nbsp; `chasing a bug to its actual root cause`
 
 `making it work first, then making it beautiful` &nbsp;•&nbsp; `automating the boring part`
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## <img src="https://akts.tr/brand/akts-studio.svg" width="28" align="center" alt="" /> Akts Studio
+
+My projects now live under **[Akts Studio](https://github.com/Akts-Studio)** — the studio I publish my apps and sites from.
+
+<br>
+
+<a href="https://github.com/Akts-Studio/aktas-mail"><img src="https://img.shields.io/badge/Aktaş%20Mail-self--hosted%20mail-1a73e8?style=flat-square" alt="Aktaş Mail" /></a>
+<a href="https://github.com/Akts-Studio/turkce-spam-modeli"><img src="https://img.shields.io/badge/Türkçe%20Spam%20Modeli-ML-2ea043?style=flat-square" alt="Türkçe Spam Modeli" /></a>
+<a href="https://github.com/Akts-Studio/akts-landing"><img src="https://img.shields.io/badge/akts.tr-landing-111111?style=flat-square" alt="akts.tr" /></a>
+<a href="https://github.com/Akts-Studio/portfolio"><img src="https://img.shields.io/badge/eymen.akts.tr-portfolio-111111?style=flat-square" alt="portfolio" /></a>
+
+<sub>Apps: MehtApp · StudyTrack · OyunHub · Maske Packs · Aktaş Fit — some repos are private.</sub>
+
+<br><br>
+
+<a href="https://github.com/Akts-Studio"><img src="https://img.shields.io/badge/→%20Go%20to%20Akts%20Studio-bb2a2a?style=for-the-badge&logo=github&logoColor=white" alt="Go to Akts Studio" /></a>
 
 </div>
 
