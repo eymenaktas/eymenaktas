@@ -50,6 +50,10 @@ jobs:
           GITHUB_USER: ${{ github.repository_owner }}
         run: node scripts/butonlar.mjs dist
 
+      # Başlık bandı, bölüm başlıkları, kartlar, alt bant (açık + koyu).
+      - name: Dekoratif görseller
+        run: node scripts/gorseller.mjs dist
+
       - uses: Platane/snk@v3
         id: snake
         with:
