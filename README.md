@@ -6,9 +6,9 @@
 
 <br><br>
 
-<a href="mailto:eymen@akts.tr"><img src="https://img.shields.io/badge/Email-eymen%40akts.tr-1a73e8?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
-<a href="https://akts.tr"><img src="https://img.shields.io/badge/Website-akts.tr-111111?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
-<a href="https://github.com/Akts-Studio"><img src="https://img.shields.io/badge/Akts%20Studio-Projects-bb2a2a?style=for-the-badge&logo=github&logoColor=white" alt="Akts Studio" /></a>
+<a href="mailto:eymen@akts.tr"><img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/btn-email.svg" height="40" alt="Email" /></a>
+<a href="https://akts.tr"><img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/btn-website.svg" height="40" alt="Website" /></a>
+<a href="https://github.com/Akts-Studio"><img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/btn-studio.svg" height="40" alt="Akts Studio" /></a>
 
 <br>
 
@@ -79,16 +79,16 @@ My projects now live under **[Akts Studio](https://github.com/Akts-Studio)** —
 
 <br>
 
-<a href="https://github.com/Akts-Studio/aktas-mail"><img src="https://img.shields.io/badge/Aktaş%20Mail-self--hosted%20mail-1a73e8?style=flat-square" alt="Aktaş Mail" /></a>
-<a href="https://github.com/Akts-Studio/turkce-spam-modeli"><img src="https://img.shields.io/badge/Türkçe%20Spam%20Modeli-ML-2ea043?style=flat-square" alt="Türkçe Spam Modeli" /></a>
-<a href="https://github.com/Akts-Studio/akts-landing"><img src="https://img.shields.io/badge/akts.tr-landing-111111?style=flat-square" alt="akts.tr" /></a>
-<a href="https://github.com/Akts-Studio/portfolio"><img src="https://img.shields.io/badge/eymen.akts.tr-portfolio-111111?style=flat-square" alt="portfolio" /></a>
+<a href="https://github.com/Akts-Studio/aktas-mail"><img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/proje-aktas-mail.svg" height="30" alt="Aktaş Mail" /></a>
+<a href="https://github.com/Akts-Studio/turkce-spam-modeli"><img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/proje-spam.svg" height="30" alt="Türkçe Spam Modeli" /></a>
+<a href="https://github.com/Akts-Studio/akts-landing"><img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/proje-landing.svg" height="30" alt="akts.tr" /></a>
+<a href="https://github.com/Akts-Studio/portfolio"><img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/proje-portfolio.svg" height="30" alt="portfolio" /></a>
 
 <sub>Apps: MehtApp · StudyTrack · OyunHub · Maske Packs · Aktaş Fit — some repos are private.</sub>
 
 <br><br>
 
-<a href="https://github.com/Akts-Studio"><img src="https://img.shields.io/badge/→%20Go%20to%20Akts%20Studio-bb2a2a?style=for-the-badge&logo=github&logoColor=white" alt="Go to Akts Studio" /></a>
+<a href="https://github.com/Akts-Studio"><img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/btn-studio-git.svg" height="40" alt="Go to Akts Studio" /></a>
 
 </div>
 
@@ -133,8 +133,8 @@ My projects now live under **[Akts Studio](https://github.com/Akts-Studio)** —
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/eymenaktas?style=for-the-badge&logo=github&logoColor=white&color=1a73e8&labelColor=0d1117" alt="followers" />
-<img src="https://img.shields.io/github/stars/eymenaktas?style=for-the-badge&logo=github&logoColor=white&color=1a73e8&labelColor=0d1117" alt="stars" />
+<img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/btn-followers.svg" height="40" alt="followers" />
+<img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/btn-stars.svg" height="40" alt="stars" />
 
 </div>
 
@@ -180,8 +180,8 @@ My projects now live under **[Akts Studio](https://github.com/Akts-Studio)** —
 
 ### Get in touch
 
-<a href="mailto:eymen@akts.tr"><img src="https://img.shields.io/badge/Send%20a%20mail-1a73e8?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" /></a>
-<a href="https://github.com/eymenaktas"><img src="https://img.shields.io/badge/Follow-111111?style=for-the-badge&logo=github&logoColor=white" alt="follow" /></a>
+<a href="mailto:eymen@akts.tr"><img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/btn-mail.svg" height="40" alt="mail" /></a>
+<a href="https://github.com/eymenaktas"><img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/btn-follow.svg" height="40" alt="follow" /></a>
 
 <br><br>
 

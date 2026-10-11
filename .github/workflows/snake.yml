@@ -42,6 +42,14 @@ jobs:
           GITHUB_USER: ${{ github.repository_owner }}
         run: node scripts/aktivite.mjs dist
 
+      # Butonlar da kendi üretimimiz: shields.io rozetleri camo arkasında
+      # ara ara kırık görünüyordu, bazı logo adları da kaldırılmıştı.
+      - name: Butonlar
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: node scripts/butonlar.mjs dist
+
       - uses: Platane/snk@v3
         id: snake
         with:
