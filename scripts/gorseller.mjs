@@ -20,8 +20,8 @@ const R = {
   zemin: "#0d1117",
   kart: "#111823",
   kenar: "#1f2733",
-  mavi: "#1a73e8",
-  acik: "#8ab4f8",
+  mavi: "#ff5b4a",
+  acik: "#ff8a7a",
   metin: "#e6edf3",
   soluk: "#8b949e",
 };
@@ -112,7 +112,7 @@ const BOLUM_IKON = {
 };
 
 /** Açık temada yazı renkleri; zemin şeffaf olduğu için yalnız bunlar değişir. */
-const ACIK = { metin: "#1f2328", soluk: "#59636e", acik: "#1a73e8" };
+const ACIK = { metin: "#1f2328", soluk: "#59636e", acik: "#c8281c" };
 const renk = (tema) => (tema === "acik" ? ACIK : R);
 
 function bolum(ikon, no, metin, tema) {

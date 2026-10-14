@@ -35,7 +35,7 @@ const IKON = {
 
 /** Tonlar: [degrade başı, degrade sonu, ikon/değer rengi]. */
 const TON = {
-  mavi: ["#1a73e8", "#8ab4f8", "#8ab4f8"],
+  mavi: ["#ff5b4a", "#ff8a7a", "#ff8a7a"],
   kirmizi: ["#bb2a2a", "#f28b82", "#f28b82"],
   yesil: ["#2ea043", "#7ee2a8", "#7ee2a8"],
   gri: ["#5f6b7a", "#c9d1d9", "#c9d1d9"],

@@ -38,10 +38,10 @@ if (!TOKEN) {
 const R = {
   zemin: "#0d1117",
   kenar: "#1f2733",
-  baslik: "#1a73e8",
+  baslik: "#ff5b4a",
   metin: "#c9d1d9",
   soluk: "#8b949e",
-  vurgu: "#8ab4f8",
+  vurgu: "#ff8a7a",
 };
 
 async function graphql(sorgu, degiskenler) {
