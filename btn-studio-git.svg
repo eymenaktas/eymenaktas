@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="178" height="40" viewBox="0 0 178 40" role="img" aria-label="Go to Akts Studio">
+  <title>Go to Akts Studio</title>
+  <defs>
+    <linearGradient id="gp4c0mo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#bb2a2a"/><stop offset="1" stop-color="#f28b82"/>
+    </linearGradient>
+    <linearGradient id="gp4c0mop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".07"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>.t{font:600 14px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif;dominant-baseline:central;letter-spacing:.2px}</style>
+  <rect x=".75" y=".75" width="176.5" height="38.5" rx="19.25" fill="#0d1117"/>
+  <rect x=".75" y=".75" width="176.5" height="38.5" rx="19.25" fill="url(#gp4c0mop)"/>
+  <rect x=".75" y=".75" width="176.5" height="38.5" rx="19.25" fill="none" stroke="url(#gp4c0mo)" stroke-width="1.5"/>
+  <g transform="translate(16 11) scale(0.75)" fill="none" stroke="#f28b82" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></g>
+  <text x="43" y="20" class="t" fill="#e6edf3">Go to Akts Studio</text>
+  
+</svg>

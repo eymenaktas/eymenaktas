@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64" role="img" aria-label="What I Do">
+  <title>What I Do</title>
+  <defs>
+    <linearGradient id="c1" x1="0" x2="1"><stop offset="0" stop-color="#ff5b4a" stop-opacity="0"/><stop offset="1" stop-color="#ff5b4a" stop-opacity=".7"/></linearGradient>
+    <linearGradient id="c2" x1="0" x2="1"><stop offset="0" stop-color="#ff5b4a" stop-opacity=".7"/><stop offset="1" stop-color="#ff5b4a" stop-opacity="0"/></linearGradient>
+  </defs>
+  <style>.n{font:600 12px 'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:2px}.m{font:700 24px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif;letter-spacing:-.3px}</style>
+  <line x1="40" y1="32" x2="290" y2="32" stroke="url(#c1)"/>
+  <line x1="610" y1="32" x2="860" y2="32" stroke="url(#c2)"/>
+  <g transform="translate(450 0)">
+    <text x="0" y="16" class="n" fill="#c8281c" text-anchor="middle">01</text>
+    <g transform="translate(-93.4 28) scale(.9)" fill="none" stroke="#c8281c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".9"><path d="m16 18 6-6-6-6M8 6l-6 6 6 6"/></g>
+    <text x="0" y="48" class="m" fill="#1f2328" text-anchor="middle">What I Do</text>
+  </g>
+</svg>
