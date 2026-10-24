@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106" height="40" viewBox="0 0 106 40" role="img" aria-label="akts.tr">
+  <title>akts.tr</title>
+  <defs>
+    <linearGradient id="gu4x5yp" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5f6b7a"/><stop offset="1" stop-color="#c9d1d9"/>
+    </linearGradient>
+    <linearGradient id="gu4x5ypp" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".07"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>.t{font:600 14px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif;dominant-baseline:central;letter-spacing:.2px}</style>
+  <rect x=".75" y=".75" width="104.5" height="38.5" rx="19.25" fill="#0d1117"/>
+  <rect x=".75" y=".75" width="104.5" height="38.5" rx="19.25" fill="url(#gu4x5ypp)"/>
+  <rect x=".75" y=".75" width="104.5" height="38.5" rx="19.25" fill="none" stroke="url(#gu4x5yp)" stroke-width="1.5"/>
+  <g transform="translate(16 11) scale(0.75)" fill="none" stroke="#c9d1d9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15 15 0 0 1 0 20M12 2a15 15 0 0 0 0 20"/></g>
+  <text x="43" y="20" class="t" fill="#e6edf3">akts.tr</text>
+  
+</svg>

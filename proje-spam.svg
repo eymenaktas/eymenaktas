@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="205" height="30" viewBox="0 0 205 30" role="img" aria-label="Türkçe Spam Modeli: ML">
+  <title>Türkçe Spam Modeli: ML</title>
+  <defs>
+    <linearGradient id="g79wamb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2ea043"/><stop offset="1" stop-color="#7ee2a8"/>
+    </linearGradient>
+    <linearGradient id="g79wambp" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".07"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>.t{font:600 12px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif;dominant-baseline:central;letter-spacing:.2px}</style>
+  <rect x=".75" y=".75" width="203.5" height="28.5" rx="14.25" fill="#0d1117"/>
+  <rect x=".75" y=".75" width="203.5" height="28.5" rx="14.25" fill="url(#g79wambp)"/>
+  <rect x=".75" y=".75" width="203.5" height="28.5" rx="14.25" fill="none" stroke="url(#g79wamb)" stroke-width="1.5"/>
+  <g transform="translate(12 8) scale(0.5833333333333334)" fill="none" stroke="#7ee2a8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5a3 3 0 1 0-5.99.13 4 4 0 0 0-2.53 5.77 4 4 0 0 0 .56 6.6A4 4 0 1 0 12 18Z"/><path d="M12 5a3 3 0 1 1 5.99.13 4 4 0 0 1 2.53 5.77 4 4 0 0 1-.56 6.6A4 4 0 1 1 12 18Z"/></g>
+  <text x="33" y="15" class="t" fill="#e6edf3">Türkçe Spam Modeli</text>
+  <path d="M163.16880000000003 1.5h26.7992a13.5 13.5 0 0 1 0 27H163.16880000000003z" fill="#2ea043" fill-opacity=".22"/>
+  <line x1="163.16880000000003" y1="7" x2="163.16880000000003" y2="23" stroke="url(#g79wamb)" stroke-opacity=".6"/>
+  <text x="183.81840000000003" y="15" class="t" fill="#7ee2a8" text-anchor="middle">ML</text>
+</svg>
