@@ -39,15 +39,24 @@ My projects live under **[Akts Studio](https://github.com/Akts-Studio)** — the
 <br>
 <a href="https://github.com/Akts-Studio/akts-landing"><img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/proje-landing.svg" height="30" alt="akts.tr — landing" /></a>&nbsp;
 <a href="https://github.com/Akts-Studio/portfolio"><img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/proje-portfolio.svg" height="30" alt="eymen.akts.tr — portfolio" /></a>
-<br>
-<a href="https://paketsoft.com"><img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/proje-paketsoft.svg" height="30" alt="PaketSoft — e-commerce platform" /></a>&nbsp;
-<img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/proje-avantaj-tv.svg" height="30" alt="Avantaj Depo TV — store display app" />
 
-<sub>Apps: MehtApp · StudyTrack · OyunHub · Maske Packs · Aktaş Fit · PaketSoft · Avantaj Depo TV — some repos are private.</sub>
+<sub>Apps: MehtApp · StudyTrack · OyunHub · Maske Packs · Aktaş Fit — some repos are private.</sub>
 
 <br><br>
 
 <a href="https://github.com/Akts-Studio"><img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/btn-studio-git.svg" height="40" alt="Go to Akts Studio" /></a>
+
+<br><br>
+
+<h3>PaketSoft</h3>
+
+<img src="paketsoft.svg" width="56" alt="PaketSoft logo" />
+
+**[PaketSoft](https://paketsoft.com)** is the e-commerce platform I founded and build: businesses open their own online store with 11 themes, a design editor, order and stock management, sales reports and a customer panel. Connected to PayTR, MNG Kargo, BizimHesap and Verimor, running on my own servers.
+
+<br>
+
+<a href="https://paketsoft.com"><img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/proje-paketsoft.svg" height="30" alt="PaketSoft — e-commerce platform" /></a>
 
 <br><br>
 
