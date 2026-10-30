@@ -39,8 +39,11 @@ My projects live under **[Akts Studio](https://github.com/Akts-Studio)** — the
 <br>
 <a href="https://github.com/Akts-Studio/akts-landing"><img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/proje-landing.svg" height="30" alt="akts.tr — landing" /></a>&nbsp;
 <a href="https://github.com/Akts-Studio/portfolio"><img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/proje-portfolio.svg" height="30" alt="eymen.akts.tr — portfolio" /></a>
+<br>
+<a href="https://paketsoft.com"><img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/proje-paketsoft.svg" height="30" alt="PaketSoft — e-commerce platform" /></a>&nbsp;
+<img src="https://raw.githubusercontent.com/eymenaktas/eymenaktas/output/proje-avantaj-tv.svg" height="30" alt="Avantaj Depo TV — store display app" />
 
-<sub>Apps: MehtApp · StudyTrack · OyunHub · Maske Packs · Aktaş Fit — some repos are private.</sub>
+<sub>Apps: MehtApp · StudyTrack · OyunHub · Maske Packs · Aktaş Fit · PaketSoft · Avantaj Depo TV — some repos are private.</sub>
 
 <br><br>
 

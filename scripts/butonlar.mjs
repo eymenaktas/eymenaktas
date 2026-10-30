@@ -138,6 +138,8 @@ const BUTONLAR = {
   "proje-aktas-mail": { ikon: "server", etiket: "Aktaş Mail", deger: "self-hosted mail", boyut: "kucuk" },
   "proje-spam": { ikon: "brain", etiket: "Türkçe Spam Modeli", deger: "ML", ton: "yesil", boyut: "kucuk" },
   "proje-landing": { ikon: "layout", etiket: "akts.tr", deger: "landing", ton: "gri", boyut: "kucuk" },
+  "proje-paketsoft": { ikon: "layout", etiket: "PaketSoft", deger: "e-commerce", boyut: "kucuk" },
+  "proje-avantaj-tv": { ikon: "server", etiket: "Avantaj Depo TV", deger: "store display", ton: "gri", boyut: "kucuk" },
   "proje-portfolio": { ikon: "user", etiket: "eymen.akts.tr", deger: "portfolio", ton: "gri", boyut: "kucuk" },
 };
 
