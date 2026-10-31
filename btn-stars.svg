@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="139" height="40" viewBox="0 0 139 40" role="img" aria-label="Stars: 6">
+  <title>Stars: 6</title>
+  <defs>
+    <linearGradient id="g0bksl5" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff5b4a"/><stop offset="1" stop-color="#ff8a7a"/>
+    </linearGradient>
+    <linearGradient id="g0bksl5p" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".07"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>.t{font:600 14px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif;dominant-baseline:central;letter-spacing:.2px}</style>
+  <rect x=".75" y=".75" width="137.5" height="38.5" rx="19.25" fill="#0d1117"/>
+  <rect x=".75" y=".75" width="137.5" height="38.5" rx="19.25" fill="url(#g0bksl5p)"/>
+  <rect x=".75" y=".75" width="137.5" height="38.5" rx="19.25" fill="none" stroke="url(#g0bksl5)" stroke-width="1.5"/>
+  <g transform="translate(16 11) scale(0.75)" fill="none" stroke="#ff8a7a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z"/></g>
+  <text x="43" y="20" class="t" fill="#e6edf3">Stars</text>
+  <path d="M98.0292 1.5h21.1072a18.5 18.5 0 0 1 0 37H98.0292z" fill="#ff5b4a" fill-opacity=".22"/>
+  <line x1="98.0292" y1="7" x2="98.0292" y2="33" stroke="url(#g0bksl5)" stroke-opacity=".6"/>
+  <text x="118.3328" y="20" class="t" fill="#ff8a7a" text-anchor="middle">6</text>
+</svg>
