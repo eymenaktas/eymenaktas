@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64" role="img" aria-label="Get in Touch">
+  <title>Get in Touch</title>
+  <defs>
+    <linearGradient id="c1" x1="0" x2="1"><stop offset="0" stop-color="#ff5b4a" stop-opacity="0"/><stop offset="1" stop-color="#ff5b4a" stop-opacity=".7"/></linearGradient>
+    <linearGradient id="c2" x1="0" x2="1"><stop offset="0" stop-color="#ff5b4a" stop-opacity=".7"/><stop offset="1" stop-color="#ff5b4a" stop-opacity="0"/></linearGradient>
+  </defs>
+  <style>.n{font:600 12px 'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:2px}.m{font:700 24px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif;letter-spacing:-.3px}</style>
+  <line x1="40" y1="32" x2="290" y2="32" stroke="url(#c1)"/>
+  <line x1="610" y1="32" x2="860" y2="32" stroke="url(#c2)"/>
+  <g transform="translate(450 0)">
+    <text x="0" y="16" class="n" fill="#ff8a7a" text-anchor="middle">07</text>
+    <g transform="translate(-113.2 28) scale(.9)" fill="none" stroke="#ff8a7a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".9"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></g>
+    <text x="0" y="48" class="m" fill="#e6edf3" text-anchor="middle">Get in Touch</text>
+  </g>
+</svg>

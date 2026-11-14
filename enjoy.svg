@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="96" viewBox="0 0 900 96" role="img" aria-label="taking things apart to see how they work, chasing a bug to its actual root cause, making it work first, then making it beautiful, automating the boring part">
+  <title>Things I enjoy</title>
+  <style>.c{font:500 13px 'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#e6edf3}</style>
+  <rect x="95.66000000000003" y="6" width="356.4" height="34" rx="17" fill="#111823" stroke="#1f2733"/><text x="273.86" y="27.5" class="c" text-anchor="middle"><tspan fill="#ff8a7a">›</tspan> taking things apart to see how they work</text><rect x="464.06" y="6" width="340.28" height="34" rx="17" fill="#111823" stroke="#1f2733"/><text x="634.2" y="27.5" class="c" text-anchor="middle"><tspan fill="#ff8a7a">›</tspan> chasing a bug to its actual root cause</text>
+  <rect x="119.84000000000003" y="54" width="404.76" height="34" rx="17" fill="#111823" stroke="#1f2733"/><text x="322.22" y="75.5" class="c" text-anchor="middle"><tspan fill="#ff8a7a">›</tspan> making it work first, then making it beautiful</text><rect x="536.6" y="54" width="243.56" height="34" rx="17" fill="#111823" stroke="#1f2733"/><text x="658.38" y="75.5" class="c" text-anchor="middle"><tspan fill="#ff8a7a">›</tspan> automating the boring part</text>
+</svg>
