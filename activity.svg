@@ -1,0 +1,141 @@
+<svg width="840" height="260" viewBox="0 0 840 260"
+     xmlns="http://www.w3.org/2000/svg" role="img"
+     aria-label="eymenaktas contribution activity, last 31 days, 599 total">
+  <style>
+    .b { font: 600 16px 'Segoe UI', Ubuntu, sans-serif; fill: #ff5b4a }
+    .s { font: 400 12px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e }
+    .k { font: 400 11px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e }
+    /* pathLength="1" sayesinde dasharray yolun gerçek uzunluğundan
+       bağımsız — sabit 4000 verilseydi kısa yolda çizim animasyonun
+       son saniyesinde bir anda oluyordu. */
+    .cizgi { stroke-dasharray: 1; stroke-dashoffset: 1; animation: ciz 1.6s ease forwards }
+    .alan  { opacity: 0; animation: ac .8s ease .6s forwards }
+    @keyframes ciz { to { stroke-dashoffset: 0 } }
+    @keyframes ac  { to { opacity: 1 } }
+    @media (prefers-reduced-motion: reduce) {
+      .cizgi { animation: none; stroke-dashoffset: 0 }
+      .alan  { animation: none; opacity: 1 }
+    }
+  </style>
+  <defs>
+    <linearGradient id="dolgu" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff5b4a" stop-opacity=".38" />
+      <stop offset="1" stop-color="#ff5b4a" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="838" height="258" rx="12" fill="#0d1117" stroke="#1f2733" />
+  <text x="24" y="34" class="b">Contribution activity</text>
+  <text x="816" y="34" class="s" text-anchor="end">last 31 days &#183; 599 contributions</text>
+
+  <line x1="44" y1="214.0" x2="816" y2="214.0" stroke="#161d27" />
+      <text x="34" y="218.0" class="k" text-anchor="end">0</text>
+  <line x1="44" y1="176.5" x2="816" y2="176.5" stroke="#161d27" />
+      <text x="34" y="180.5" class="k" text-anchor="end">50</text>
+  <line x1="44" y1="139.0" x2="816" y2="139.0" stroke="#161d27" />
+      <text x="34" y="143.0" class="k" text-anchor="end">100</text>
+  <line x1="44" y1="101.5" x2="816" y2="101.5" stroke="#161d27" />
+      <text x="34" y="105.5" class="k" text-anchor="end">150</text>
+  <line x1="44" y1="64.0" x2="816" y2="64.0" stroke="#161d27" />
+      <text x="34" y="68.0" class="k" text-anchor="end">200</text>
+
+  <path d="M44.0 214.0 L44.0 200.5 L69.7 211.8 L95.5 191.5 L121.2 191.5 L146.9 214.0 L172.7 214.0 L198.4 191.5 L224.1 166.8 L249.9 186.3 L275.6 208.0 L301.3 214.0 L327.1 214.0 L352.8 214.0 L378.5 202.0 L404.3 202.8 L430.0 212.5 L455.7 211.0 L481.5 213.3 L507.2 214.0 L532.9 214.0 L558.7 214.0 L584.4 213.3 L610.1 182.5 L635.9 207.3 L661.6 206.5 L687.3 115.8 L713.1 196.8 L738.8 163.0 L764.5 193.8 L790.3 196.0 L816.0 208.8 L816.0 214.0 Z" fill="url(#dolgu)" class="alan" />
+  <path d="M44.0 200.5 L69.7 211.8 L95.5 191.5 L121.2 191.5 L146.9 214.0 L172.7 214.0 L198.4 191.5 L224.1 166.8 L249.9 186.3 L275.6 208.0 L301.3 214.0 L327.1 214.0 L352.8 214.0 L378.5 202.0 L404.3 202.8 L430.0 212.5 L455.7 211.0 L481.5 213.3 L507.2 214.0 L532.9 214.0 L558.7 214.0 L584.4 213.3 L610.1 182.5 L635.9 207.3 L661.6 206.5 L687.3 115.8 L713.1 196.8 L738.8 163.0 L764.5 193.8 L790.3 196.0 L816.0 208.8" pathLength="1" fill="none" stroke="#ff5b4a" stroke-width="2.5"
+        stroke-linejoin="round" stroke-linecap="round" class="cizgi" />
+  <circle cx="44.0" cy="200.5" r="4"
+      fill="#ff8a7a" stroke="#0d1117" stroke-width="2">
+      <title>Oct 22: 18</title>
+    </circle>
+  <circle cx="69.7" cy="211.8" r="4"
+      fill="#ff8a7a" stroke="#0d1117" stroke-width="2">
+      <title>Oct 23: 3</title>
+    </circle>
+  <circle cx="95.5" cy="191.5" r="4"
+      fill="#ff8a7a" stroke="#0d1117" stroke-width="2">
+      <title>Oct 24: 30</title>
+    </circle>
+  <circle cx="121.2" cy="191.5" r="4"
+      fill="#ff8a7a" stroke="#0d1117" stroke-width="2">
+      <title>Oct 25: 30</title>
+    </circle>
+  <circle cx="198.4" cy="191.5" r="4"
+      fill="#ff8a7a" stroke="#0d1117" stroke-width="2">
+      <title>Oct 28: 30</title>
+    </circle>
+  <circle cx="224.1" cy="166.8" r="4"
+      fill="#ff8a7a" stroke="#0d1117" stroke-width="2">
+      <title>Oct 29: 63</title>
+    </circle>
+  <circle cx="249.9" cy="186.3" r="4"
+      fill="#ff8a7a" stroke="#0d1117" stroke-width="2">
+      <title>Oct 30: 37</title>
+    </circle>
+  <circle cx="275.6" cy="208.0" r="4"
+      fill="#ff8a7a" stroke="#0d1117" stroke-width="2">
+      <title>Oct 31: 8</title>
+    </circle>
+  <circle cx="378.5" cy="202.0" r="4"
+      fill="#ff8a7a" stroke="#0d1117" stroke-width="2">
+      <title>Nov 4: 16</title>
+    </circle>
+  <circle cx="404.3" cy="202.8" r="4"
+      fill="#ff8a7a" stroke="#0d1117" stroke-width="2">
+      <title>Nov 5: 15</title>
+    </circle>
+  <circle cx="430.0" cy="212.5" r="4"
+      fill="#ff8a7a" stroke="#0d1117" stroke-width="2">
+      <title>Nov 6: 2</title>
+    </circle>
+  <circle cx="455.7" cy="211.0" r="4"
+      fill="#ff8a7a" stroke="#0d1117" stroke-width="2">
+      <title>Nov 7: 4</title>
+    </circle>
+  <circle cx="481.5" cy="213.3" r="4"
+      fill="#ff8a7a" stroke="#0d1117" stroke-width="2">
+      <title>Nov 8: 1</title>
+    </circle>
+  <circle cx="584.4" cy="213.3" r="4"
+      fill="#ff8a7a" stroke="#0d1117" stroke-width="2">
+      <title>Nov 12: 1</title>
+    </circle>
+  <circle cx="610.1" cy="182.5" r="4"
+      fill="#ff8a7a" stroke="#0d1117" stroke-width="2">
+      <title>Nov 13: 42</title>
+    </circle>
+  <circle cx="635.9" cy="207.3" r="4"
+      fill="#ff8a7a" stroke="#0d1117" stroke-width="2">
+      <title>Nov 14: 9</title>
+    </circle>
+  <circle cx="661.6" cy="206.5" r="4"
+      fill="#ff8a7a" stroke="#0d1117" stroke-width="2">
+      <title>Nov 15: 10</title>
+    </circle>
+  <circle cx="687.3" cy="115.8" r="4"
+      fill="#ff8a7a" stroke="#0d1117" stroke-width="2">
+      <title>Nov 16: 131</title>
+    </circle>
+  <circle cx="713.1" cy="196.8" r="4"
+      fill="#ff8a7a" stroke="#0d1117" stroke-width="2">
+      <title>Nov 17: 23</title>
+    </circle>
+  <circle cx="738.8" cy="163.0" r="4"
+      fill="#ff8a7a" stroke="#0d1117" stroke-width="2">
+      <title>Nov 18: 68</title>
+    </circle>
+  <circle cx="764.5" cy="193.8" r="4"
+      fill="#ff8a7a" stroke="#0d1117" stroke-width="2">
+      <title>Nov 19: 27</title>
+    </circle>
+  <circle cx="790.3" cy="196.0" r="4"
+      fill="#ff8a7a" stroke="#0d1117" stroke-width="2">
+      <title>Nov 20: 24</title>
+    </circle>
+  <circle cx="816.0" cy="208.8" r="4"
+      fill="#ff8a7a" stroke="#0d1117" stroke-width="2">
+      <title>Nov 21: 7</title>
+    </circle>
+
+  <text x="44.0" y="240" class="k" text-anchor="start">Oct 22</text>
+  <text x="301.3" y="240" class="k" text-anchor="middle">Nov 1</text>
+  <text x="816.0" y="240" class="k" text-anchor="end">Nov 21</text>
+</svg>
