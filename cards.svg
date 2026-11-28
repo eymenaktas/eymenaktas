@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="Self-hosting, Machine Learning, Game and Plugin Dev">
+  <title>What I do</title>
+  <defs>
+    <linearGradient id="ck" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff5b4a" stop-opacity=".7"/><stop offset=".45" stop-color="#1f2733"/><stop offset="1" stop-color="#1f2733"/></linearGradient>
+    <linearGradient id="ust" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff5b4a" stop-opacity=".09"/><stop offset=".6" stop-color="#ff5b4a" stop-opacity="0"/></linearGradient>
+  </defs>
+  <style>
+    .b{font:700 18px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif;fill:#e6edf3}
+    .m{font:400 13.5px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif;fill:#8b949e}
+  </style>
+  <g transform="translate(0 0)">
+    <rect x=".75" y=".75" width="286.5" height="228.5" rx="16" fill="#111823"/>
+    <rect x=".75" y=".75" width="286.5" height="228.5" rx="16" fill="url(#ust)"/>
+    <rect x=".75" y=".75" width="286.5" height="228.5" rx="16" fill="none" stroke="url(#ck)" stroke-width="1.2"/>
+    <rect x="24" y="24" width="44" height="44" rx="12" fill="#ff5b4a" fill-opacity=".14" stroke="#ff5b4a" stroke-opacity=".45"/>
+    <g transform="translate(34 34)" fill="none" stroke="#ff8a7a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="8" rx="2"/><rect x="2" y="14" width="20" height="8" rx="2"/><path d="M6 6h.01M6 18h.01"/></g>
+    <text x="24" y="100" class="b">Self-hosting</text>
+    <text x="24" y="130" class="m">I'd rather run it than rent it.</text><text x="24" y="151" class="m">Mail, databases, reverse proxies —</text><text x="24" y="172" class="m">I want to know what every</text><text x="24" y="193" class="m">service on the box is doing.</text>
+  </g>
+  <g transform="translate(306 0)">
+    <rect x=".75" y=".75" width="286.5" height="228.5" rx="16" fill="#111823"/>
+    <rect x=".75" y=".75" width="286.5" height="228.5" rx="16" fill="url(#ust)"/>
+    <rect x=".75" y=".75" width="286.5" height="228.5" rx="16" fill="none" stroke="url(#ck)" stroke-width="1.2"/>
+    <rect x="24" y="24" width="44" height="44" rx="12" fill="#ff5b4a" fill-opacity=".14" stroke="#ff5b4a" stroke-opacity=".45"/>
+    <g transform="translate(34 34)" fill="none" stroke="#ff8a7a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5a3 3 0 1 0-5.99.13 4 4 0 0 0-2.53 5.77 4 4 0 0 0 .56 6.6A4 4 0 1 0 12 18Z"/><path d="M12 5a3 3 0 1 1 5.99.13 4 4 0 0 1 2.53 5.77 4 4 0 0 1-.56 6.6A4 4 0 1 1 12 18Z"/></g>
+    <text x="24" y="100" class="b">Machine Learning</text>
+    <text x="24" y="130" class="m">Training models on my own data</text><text x="24" y="151" class="m">and shipping them where they</text><text x="24" y="172" class="m">get used. If a number isn't</text><text x="24" y="193" class="m">measured, it isn't real.</text>
+  </g>
+  <g transform="translate(612 0)">
+    <rect x=".75" y=".75" width="286.5" height="228.5" rx="16" fill="#111823"/>
+    <rect x=".75" y=".75" width="286.5" height="228.5" rx="16" fill="url(#ust)"/>
+    <rect x=".75" y=".75" width="286.5" height="228.5" rx="16" fill="none" stroke="url(#ck)" stroke-width="1.2"/>
+    <rect x="24" y="24" width="44" height="44" rx="12" fill="#ff5b4a" fill-opacity=".14" stroke="#ff5b4a" stroke-opacity=".45"/>
+    <g transform="translate(34 34)" fill="none" stroke="#ff8a7a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 11h4M8 9v4M15 12h.01M18 10h.01"/><rect x="2" y="6" width="20" height="12" rx="4"/></g>
+    <text x="24" y="100" class="b">Game &amp; Plugin Dev</text>
+    <text x="24" y="130" class="m">Started in the Minecraft</text><text x="24" y="151" class="m">ecosystem writing plugins.</text><text x="24" y="172" class="m">Still the fastest way I know</text><text x="24" y="193" class="m">to learn a language properly.</text>
+  </g>
+</svg>

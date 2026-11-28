@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64" role="img" aria-label="Akts Studio">
+  <title>Akts Studio</title>
+  <defs>
+    <linearGradient id="c1" x1="0" x2="1"><stop offset="0" stop-color="#ff5b4a" stop-opacity="0"/><stop offset="1" stop-color="#ff5b4a" stop-opacity=".7"/></linearGradient>
+    <linearGradient id="c2" x1="0" x2="1"><stop offset="0" stop-color="#ff5b4a" stop-opacity=".7"/><stop offset="1" stop-color="#ff5b4a" stop-opacity="0"/></linearGradient>
+  </defs>
+  <style>.n{font:600 12px 'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:2px}.m{font:700 24px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif;letter-spacing:-.3px}</style>
+  <line x1="40" y1="32" x2="290" y2="32" stroke="url(#c1)"/>
+  <line x1="610" y1="32" x2="860" y2="32" stroke="url(#c2)"/>
+  <g transform="translate(450 0)">
+    <text x="0" y="16" class="n" fill="#ff8a7a" text-anchor="middle">02</text>
+    <g transform="translate(-106.60000000000001 28) scale(.9)" fill="none" stroke="#ff8a7a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".9"><path d="M3 21h18M5 21V7l7-4 7 4v14M9 21v-6h6v6"/></g>
+    <text x="0" y="48" class="m" fill="#e6edf3" text-anchor="middle">Akts Studio</text>
+  </g>
+</svg>
